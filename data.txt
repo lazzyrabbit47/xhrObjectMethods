@@ -1,0 +1,1 @@
+this a simple text file that will will fetch using the XMLHTTPRequest Object
